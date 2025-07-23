@@ -1,5 +1,7 @@
 import numpy as np
 
+
+
 class MultipleLinearRegression:
     '''
     A multiple linear regression model using Ordinary Least Squares (OLS) method.
@@ -36,8 +38,9 @@ class MultipleLinearRegression:
         uses these coefficients to make predictions on new data.
 
         Train data should be in the dataframe format for dataset with single feature to work correctly.
-
     '''
+
+
     def __init__(self):
         self.coef_ = None
         self.intercept_ = None

@@ -53,7 +53,9 @@ class LogisticRegression:
     predictions = model.predict(x)
     print(predictions)
     ``` 
+
     '''
+
 
     def __init__(self, x, y):
         self.param = {}

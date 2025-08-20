@@ -1,3 +1,5 @@
 Practice_file.ipynb
 myenv
 .ipynb_checkpoints/
+data
+__pycache__

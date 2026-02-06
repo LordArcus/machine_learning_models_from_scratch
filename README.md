@@ -154,7 +154,7 @@ Simple implementations of machine learning algorithms using NumPy and Python.
 
 1. Clone the repository:
 ```bash
-git clone https://github.com/yourusername/machine_learning_models_from_scratch.git
+git clone https://github.com/LordArcus/machine_learning_models_from_scratch.git
 cd machine_learning_models_from_scratch
 ```
 
